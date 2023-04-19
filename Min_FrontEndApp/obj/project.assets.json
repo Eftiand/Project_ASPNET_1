@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Min_FrontEndApp.csproj",
+      "projectUniqueName": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/Min_FrontEndApp.csproj",
       "projectName": "Min_FrontEndApp",
-      "projectPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Min_FrontEndApp.csproj",
+      "projectPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/Min_FrontEndApp.csproj",
       "packagesPath": "/Users/kristianjeremic/.nuget/packages/",
-      "outputPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/obj/",
+      "outputPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kristianjeremic/.nuget/NuGet/NuGet.Config"

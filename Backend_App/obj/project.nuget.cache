@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55UIihhKIaJJo6LfqAMWHCeIpQJ0hSd9mR8S/5fxwKdfY1G/i9yHStlyADq0ofxzZaTh/tOe55WjZbHMZt3l+A==",
+  "dgSpecHash": "0865x5elGd8TThHW7qLWTXG8+Pu/KgYEIzzWad6L+StXpIG92zyPT/lF1KYcixAox8SHZidThi/FYuHTtk+A2g==",
   "success": true,
-  "projectFilePath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Backend_App/Backend_App.csproj",
+  "projectFilePath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Backend_App/Backend_App.csproj",
   "expectedPackageFiles": [
     "/Users/kristianjeremic/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/kristianjeremic/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.5/microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",

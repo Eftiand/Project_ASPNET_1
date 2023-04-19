@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend_App", "Backend_App\Backend_App.csproj", "{9DC3D537-09A1-41D6-B104-51115E76CBAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend_App", "Frontend_App\Frontend_App.csproj", "{480E535E-2FFB-49C4-9843-B5990804B878}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min_FrontEndApp", "Min_FrontEndApp\Min_FrontEndApp.csproj", "{3E471E8D-7F35-4092-8565-F4E91E00862D}"
 EndProject
 Global
@@ -16,10 +14,6 @@ Global
 		{9DC3D537-09A1-41D6-B104-51115E76CBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DC3D537-09A1-41D6-B104-51115E76CBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DC3D537-09A1-41D6-B104-51115E76CBAB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{480E535E-2FFB-49C4-9843-B5990804B878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{480E535E-2FFB-49C4-9843-B5990804B878}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{480E535E-2FFB-49C4-9843-B5990804B878}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{480E535E-2FFB-49C4-9843-B5990804B878}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E471E8D-7F35-4092-8565-F4E91E00862D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E471E8D-7F35-4092-8565-F4E91E00862D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E471E8D-7F35-4092-8565-F4E91E00862D}.Release|Any CPU.ActiveCfg = Release|Any CPU

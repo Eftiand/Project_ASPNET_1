@@ -11004,11 +11004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Backend_App/Backend_App.csproj",
+      "projectUniqueName": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Backend_App/Backend_App.csproj",
       "projectName": "Backend_App",
-      "projectPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Backend_App/Backend_App.csproj",
+      "projectPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Backend_App/Backend_App.csproj",
       "packagesPath": "/Users/kristianjeremic/.nuget/packages/",
-      "outputPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Backend_App/obj/",
+      "outputPath": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Backend_App/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kristianjeremic/.nuget/NuGet/NuGet.Config"
