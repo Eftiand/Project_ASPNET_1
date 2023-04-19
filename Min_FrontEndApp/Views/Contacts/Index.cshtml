@@ -1,0 +1,23 @@
+﻿@model Min_FrontEndApp.Models.ViewModels.ContactViewModel
+
+<div class="container col-xl-10 col-xxl-8 px-4 py-5">
+    <div class="col-md-10 mx-auto col-lg-5">
+        <div asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
+            <h2>Contact us!</h2>
+            <div class="form-floating mb-3">
+                <input asp-for="Email" class="form-control">
+                <label asp-for="Email"></label>
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <textarea asp-for="Message" class="form-control" style="height: 100%" rows="10"></textarea>
+                <label asp-for="Message"></label>
+            </div>
+            <button class="w-100 btn btn-primary btn-theme" type="submit">Send</button>
+        </form>
+    </div>
+</div>
+
+
+

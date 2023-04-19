@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Min_FrontEndApp
+build_property.RootNamespace = Min_FrontEndApp
+build_property.ProjectDir = /Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Products/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Shared/_CollectionItemPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db2xsZWN0aW9uSXRlbVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Shared/_CollectionPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db2xsZWN0aW9uUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Shared/_ShowCasePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaG93Q2FzZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Shared/_SpecialOffersPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TcGVjaWFsT2ZmZXJzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Shared/_StarRatingPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TdGFyUmF0aW5nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Account/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9TaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/office-style.png",
+      "PackagePath": "staticwebassets/images/office-style.png"
+    },
+    {
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/party-style.png",
+      "PackagePath": "staticwebassets/images/party-style.png"
+    },
+    {
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/showcase-img.png",
+      "PackagePath": "staticwebassets/images/showcase-img.png"
+    },
+    {
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Min_FrontEndApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Min_FrontEndApp.props",
+      "PackagePath": "build\\Min_FrontEndApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Min_FrontEndApp.props",
+      "PackagePath": "buildMultiTargeting\\Min_FrontEndApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Min_FrontEndApp.props",
+      "PackagePath": "buildTransitive\\Min_FrontEndApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

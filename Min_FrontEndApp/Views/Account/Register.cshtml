@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model Inl_uppgift_ASPNET_1.ViewModels.RegisterViewModel
+
+
+<div class="container col-xl-10 col-xxl-8 px-4 py-5">
+    <div class="col-md-10 mx-auto col-lg-5">
+
+        <form class="p-4 p-md-5 border rounded-3 bg-body-tertiary" method="post">
+            <h2>Register Form</h2>
+            <div class="mb-3 d-flex justify-content-center">
+                <div asp-validation-summary="ModelOnly"></div>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="FirstName" class="form-control"/>
+                <label asp-for="FirstName" class="form-label"></label>
+                <small><span asp-validation-for="FirstName" class="text-danger"></span></small>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="LastName" class="form-control"/>
+                <label asp-for="LastName" class="form-label"></label>
+                <small><span asp-validation-for="LastName" class="text-danger"></span></small>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Email" class="form-control"/>
+                <label asp-for="Email" class="form-label"></label>
+                <small><span asp-validation-for="Email" class="text-danger"></span></small>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Password" class="form-control"/>
+                <label asp-for="Password" class="form-label"></label>
+                <small><span asp-validation-for="Password" class="text-danger"></span></small>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="ConfirmPassword" class="form-control"/>
+                <label asp-for="ConfirmPassword" class="form-label"></label>
+                <small><span asp-validation-for="ConfirmPassword" class="text-danger"></span></small>
+            </div>
+            <button class="w-100 btn btn-lg btn-primary btn-theme" type="submit">Register</button>
+            <hr class="my-4">
+        </form>
+    </div>
+</div>
+
+

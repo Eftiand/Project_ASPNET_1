@@ -1,0 +1,41 @@
+@model Min_FrontEndApp.Models.ViewModels.AdminAddProductViewModel
+
+<div class="container col-xl-10 col-xxl-8 px-4 py-5">
+    <div class="col-md-10 mx-auto col-lg-5">
+        <div asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
+            <h2>Add product</h2>
+            <div class="form-floating mb-3">
+                <input asp-for="Name" class="form-control">
+                <label asp-for="Name"></label>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <textarea asp-for="Description" class="form-control" style="height: 100%" rows="10"></textarea>
+                <label asp-for="Description"></label>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Price" class="form-control">
+                <label asp-for="Price"></label>
+                <span asp-validation-for="Price"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="ImageUrl" value="http://via.placeholder.com/640x360" class="form-control">
+                <label asp-for="ImageUrl"></label>
+                <span asp-validation-for="ImageUrl"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="StarRating" class="form-control">
+                <label asp-for="StarRating"></label>
+                <span asp-validation-for="StarRating"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Status" class="form-control">
+                <label asp-for="Status"></label>
+                <span asp-validation-for="Status"></span>
+            </div>
+            
+            <button class="w-100 btn btn-primary btn-theme" type="submit">Add</button>
+        </form>
+    </div>
+</div>

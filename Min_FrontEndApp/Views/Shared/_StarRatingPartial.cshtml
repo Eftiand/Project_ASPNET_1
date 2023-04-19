@@ -1,0 +1,9 @@
+﻿@model int
+
+
+<div class="star-rating">
+    @foreach (var star in Enumerable.Range(0, 5))
+    {
+        <i class="fa fa-star @(star < Model ? "fa-solid" : "fa-regular")"></i>
+    }
+</div>

@@ -1,0 +1,18 @@
+﻿@model Min_FrontEndApp.Models.DTO.Product
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="image-section">
+                <img src="@Model.ImageUrl" alt=""/>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="body-section">
+                <div class="name">@Model.Name</div>
+                <div class="price">@Model.Price</div>
+                <div class="description">@Model.Description</div>
+            </div>
+        </div>
+    </div>
+</div>
