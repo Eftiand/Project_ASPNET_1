@@ -1,23 +1,27 @@
 {
   "Files": [
     {
-      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/css/site.css",
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/office-style.png",
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/images/office-style.png",
       "PackagePath": "staticwebassets/images/office-style.png"
     },
     {
-      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/party-style.png",
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/images/party-style.png",
       "PackagePath": "staticwebassets/images/party-style.png"
     },
     {
-      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/showcase-img.png",
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/images/showcase-img.png",
       "PackagePath": "staticwebassets/images/showcase-img.png"
     },
     {
-      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/js/site.js",
+      "Id": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {

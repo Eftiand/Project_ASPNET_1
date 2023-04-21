@@ -49,7 +49,7 @@ public class AuthService : ApiService<LoginViewModel>
         
         using var http = GetHttpClient();
         
-        var result = await http.PostAsync(Url, null);
+        var result = await http.GetAsync(Url);
         
         return result.IsSuccessStatusCode;
     }

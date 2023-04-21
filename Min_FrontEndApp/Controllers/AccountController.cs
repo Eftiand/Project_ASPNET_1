@@ -86,10 +86,17 @@ namespace Min_FrontEndApp.Controllers
         }
         
         [HttpGet("signout")]
-        public IActionResult SignOut()
+        public async Task<IActionResult> SignOut()
         {
+            var result = await _authService.LogoutAsync();
+
+            if (!result)
+                return BadRequest();
+            
             HttpContext.Response.Cookies.Delete("accessToken");
+            
             return RedirectToAction("Index", "Home");
+            
         }
     }
 }

@@ -1,13 +1,14 @@
 ﻿@model Min_FrontEndApp.Models.ViewModels.ProductViewModel
 
-<div class="container">
-    @{
-        foreach (var product in @Model.AllProducts)
+
+<section class="collection-grid">
+    <div class="container">
+        <div class="title">All products </div>
+        <div class="item-collection">
+        @foreach (var product in @Model.AllProducts)
         {
             <partial name="_CollectionItemPartial" model="product"/>
         }
-    }
-
-</div>
-
-
+        </div>
+    </div>
+</section>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pc5GvFzqYvAEUspOFKAVNs7AIrolnR6WEOuEQFXEM5w=",
+  "Hash": "U9NzB50ELPEeloTTTskn3JFUx2tqB3vVhbrDnVsM69k=",
   "Source": "Min_FrontEndApp",
   "BasePath": "_content/Min_FrontEndApp",
   "Mode": "Default",
@@ -10,17 +10,34 @@
     {
       "Name": "Min_FrontEndApp/wwwroot",
       "Source": "Min_FrontEndApp",
-      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/",
+      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/",
       "BasePath": "_content/Min_FrontEndApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/css/site.css",
+      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/.DS_Store",
       "SourceId": "Min_FrontEndApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/",
+      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/",
+      "BasePath": "_content/Min_FrontEndApp",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/css/site.css",
+      "SourceId": "Min_FrontEndApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/",
       "BasePath": "_content/Min_FrontEndApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +51,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/office-style.png",
+      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/images/office-style.png",
       "SourceId": "Min_FrontEndApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/",
+      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/",
       "BasePath": "_content/Min_FrontEndApp",
       "RelativePath": "images/office-style.png",
       "AssetKind": "All",
@@ -51,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/images/office-style.png"
     },
     {
-      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/party-style.png",
+      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/images/party-style.png",
       "SourceId": "Min_FrontEndApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/",
+      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/",
       "BasePath": "_content/Min_FrontEndApp",
       "RelativePath": "images/party-style.png",
       "AssetKind": "All",
@@ -68,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/images/party-style.png"
     },
     {
-      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/images/showcase-img.png",
+      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/images/showcase-img.png",
       "SourceId": "Min_FrontEndApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/",
+      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/",
       "BasePath": "_content/Min_FrontEndApp",
       "RelativePath": "images/showcase-img.png",
       "AssetKind": "All",
@@ -85,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/images/showcase-img.png"
     },
     {
-      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/js/site.js",
+      "Identity": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/js/site.js",
       "SourceId": "Min_FrontEndApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_VG/Min_FrontEndApp/wwwroot/",
+      "ContentRoot": "/Users/kristianjeremic/Desktop/Programmering/ASP.NET-1/HANDINS/Project_ASPNET_1/Min_FrontEndApp/wwwroot/",
       "BasePath": "_content/Min_FrontEndApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
